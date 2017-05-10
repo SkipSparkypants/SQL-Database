@@ -1,0 +1,2340 @@
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 101 : 
+Logan, Jackson J.             3.2140206185567
+Baldwin, Ella J.              3.17547169811321
+Johnston, Jordan A.           2.98048780487805
+Herring, Nathan L.            2.97631103074141
+Battle, Gianna M.             2.90717299578059
+Bennett, Henry A.             2.85032258064516
+Williams, Victoria M.         2.83420398009951
+Fisher, Caleb K.              2.80592532467532
+Diaz, Michelle H.             2.70633802816901
+Perry, Diego D.               2.68771929824561
+Jenkins, Christian F.         2.63233830845771
+Carpenter, Grace S.           2.5829702970297
+Oliver, Sebastian I.          2.56882352941177
+Perry, Emily J.               2.48507692307692
+Williams, Ian K.              2.4462962962963
+Hall, Alexander W.            2.38685258964143
+Rogers, Emma J.               2.37981651376147
+Thompson, Kimberly M.         2.33221153846154
+David, Adam C.                2.24392523364486
+Diaz, Riley I.                2.20641025641026
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 101 : 
+EASIEST INSTRUCTOR: Logan, Jackson J.
+SCORE: 3.2140206185567
+HARDEST INSTRUCTOR: Diaz, Riley I.
+SCORE: 2.20641025641026
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 102 : 
+Parsons, Mia E.               3.18394160583942
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 102 : 
+EASIEST INSTRUCTOR: Parsons, Mia E.
+SCORE: 3.18394160583942
+HARDEST INSTRUCTOR: Parsons, Mia E.
+SCORE: 3.18394160583942
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 103 : 
+Donaldson, Matthew C.         3.50119047619048
+Alvarado, Samantha A.         3.34465408805031
+Logan, Jackson J.             3.31720733427362
+Morris, Evan E.               3.23900226757369
+Butler, Xavier E.             3.21283783783784
+Diaz, Riley I.                3.18317307692308
+Cobb, Sophie A.               3.1623046875
+Martin, Layla L.              3.15317919075144
+Herring, Nathan L.            3.11736111111111
+Davis, Giovanni H.            3.06359281437126
+Jenkins, Christian F.         2.9882183908046
+Thompson, Kimberly M.         2.96904024767802
+Diaz, Michelle H.             2.90095137420719
+Williams, Victoria M.         2.89054054054054
+Miller, Liam M.               2.87024221453287
+Sexton, Ava C.                2.84364820846906
+Moore, Isabella M.            2.80292682926829
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 103 : 
+EASIEST INSTRUCTOR: Donaldson, Matthew C.
+SCORE: 3.50119047619048
+HARDEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 2.80292682926829
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 104 : 
+Murphy, Melanie S.            3.25918367346939
+Valentine, Julian C.          3.05
+Sparks, Zoe M.                3.02377622377622
+Cox, Jayden L.                2.93286384976526
+Dean, Daniel A.               2.925
+Sexton, Ava C.                2.9
+Butler, Xavier E.             2.89620253164557
+Mccoy, Caleb A.               2.87692307692308
+Diaz, Michelle H.             2.86776859504132
+Moore, Isabella M.            2.81246105919003
+Reese, Ryan X.                2.7078947368421
+Rogers, Emma J.               2.70289634146342
+Martin, Layla L.              2.6969696969697
+Terry, Gabriel S.             2.61162790697674
+Edwards, Adrian G.            2.60070921985816
+Anderson, Kimberly J.         2.55786163522013
+Cobb, Sophie A.               2.55763688760807
+Perry, Diego D.               2.54175257731959
+Johnston, Jordan A.           2.53047619047619
+Johnson, Abigail N.           2.52864583333333
+Reeves, Brayden L.            2.5243947858473
+Perry, Emily J.               2.52038626609442
+Bennett, Henry A.             2.42659574468085
+Fisher, Caleb K.              2.39846153846154
+Cox, Ayden C.                 2.38219056099733
+Adams, Sofia A.               2.34655172413793
+Allen, Mateo G.               2.34230769230769
+White, Julia A.               2.27826086956522
+Green, Isabella M.            2.27391304347826
+Webb, Benjamin J.             2.25820895522388
+Spence, Diego A.              2.22233009708738
+Jacobs, Avery R.              2.11117647058823
+Miller, Emma J.               1.94946524064171
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 104 : 
+EASIEST INSTRUCTOR: Murphy, Melanie S.
+SCORE: 3.25918367346939
+HARDEST INSTRUCTOR: Miller, Emma J.
+SCORE: 1.94946524064171
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 105 : 
+Williams, Victoria M.         3.36787204450626
+Donaldson, Matthew C.         3.09316455696203
+Perry, Camila G.              2.97931034482759
+Porter, Hailey F.             2.96530612244898
+Logan, Jackson J.             2.91912013536379
+Miller, Emma J.               2.91555555555556
+Munoz, Wyatt A.               2.90833333333333
+Herring, Nathan L.            2.83013698630137
+Sparks, Zoe M.                2.81294964028777
+Bryant, Victor U.             2.79512195121951
+Phillips, Olivia N.           2.7
+Perry, Katherine V.           2.67552703941338
+Adams, Sofia A.               2.6455421686747
+Battle, Gianna M.             2.63613445378151
+Schneider, Daniel D.          2.60722610722611
+Hines, Mason A.               2.59449735449735
+Ross, Aiden A.                2.59333333333333
+Dean, Daniel A.               2.58490566037736
+Diaz, Michelle H.             2.57326732673267
+Oliver, Ethan T.              2.56290322580645
+Tucker, Michelle J.           2.53558282208589
+Bennett, Henry A.             2.515770609319
+Green, Brandon G.             2.4875
+Perry, Emily J.               2.47227332457292
+Edwards, Valeria G.           2.4
+Rogers, Emma J.               2.396875
+Crosby, Joshua C.             2.3953488372093
+Rutledge, Ashley B.           2.36889332003988
+Oliver, Sebastian I.          2.30730290456432
+Hall, Alexander W.            2.29801488833747
+Reeves, Brayden L.            2.24812030075188
+Williams, Ian K.              2.23731343283582
+Thompson, Kimberly M.         2.07826086956522
+Cox, Ayden C.                 2.04444444444444
+Jacobs, Avery R.              2.02051282051282
+Hurley, Landon A.             1.99661538461539
+Adams, Emily G.               1.78181818181818
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 105 : 
+EASIEST INSTRUCTOR: Williams, Victoria M.
+SCORE: 3.36787204450626
+HARDEST INSTRUCTOR: Adams, Emily G.
+SCORE: 1.78181818181818
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 106 : 
+Dodson, Nicole M.             3.46280193236715
+Hall, Joshua L.               3.15723684210526
+Donaldson, Matthew C.         3.11509433962264
+Olson, Jennifer D.            3.0409972299169
+Solis, Brayden S.             2.89
+Herring, Nathan L.            2.78228438228438
+Williams, Ian K.              2.61428571428572
+Cox, Jayden L.                2.60625
+Lloyd, Jorge N.               2.58181818181818
+Vance, Zoey H.                2.57867647058824
+Schneider, Daniel D.          2.49728434504792
+Holmes, Isaiah K.             2.45144927536232
+Diaz, Michelle H.             2.45051948051947
+Hicks, Sophia J.              2.40229885057471
+White, Jose E.                2.39084158415842
+Davis, Xavier M.              2.38455149501661
+Cobb, Olivia G.               2.32471910112359
+Oliver, Sebastian I.          2.23774834437086
+Bennett, Henry A.             2.23203883495146
+Parker, Kevin H.              2.22758620689655
+Diaz, Riley I.                2.1974358974359
+Leblanc, Arianna A.           2.18148148148148
+Jacobs, Avery R.              2.10814732142857
+Cherry, Caleb K.              2.1027027027027
+Mckinney, Jayden N.           2.10232558139535
+Sexton, Ava C.                2.08
+Marsh, Matthew M.             2.06567164179105
+Erickson, Jorge A.            2.06393442622951
+Johnston, Jayden L.           1.99825436408978
+Whitehead, William A.         1.98373983739837
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 106 : 
+EASIEST INSTRUCTOR: Dodson, Nicole M.
+SCORE: 3.46280193236715
+HARDEST INSTRUCTOR: Whitehead, William A.
+SCORE: 1.98373983739837
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 107 : 
+Edwards, Maya N.              3.13716814159292
+Larsen, Ava S.                3.08401305057096
+Navarro, Zachary N.           3.05135135135135
+Gonzalez, Benjamin E.         3.03733333333333
+Williams, Victoria M.         2.9397212543554
+Herring, Nathan L.            2.83197674418605
+Galloway, Benjamin D.         2.8317880794702
+Valentine, Julian C.          2.80232558139535
+Diaz, Michelle H.             2.71945812807882
+Dean, Daniel A.               2.62533936651584
+Sullivan, Jordan H.           2.52049418604651
+Bates, Logan Q.               2.4507614213198
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 107 : 
+EASIEST INSTRUCTOR: Edwards, Maya N.
+SCORE: 3.13716814159292
+HARDEST INSTRUCTOR: Bates, Logan Q.
+SCORE: 2.4507614213198
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 108 : 
+Olson, Jennifer D.            3.15860927152318
+Hines, Mason A.               2.73529411764706
+Diaz, Michelle H.             2.70333541147131
+Dean, Daniel A.               2.68611111111111
+Parsons, Mia E.               2.65748792270531
+Simpson, Aiden A.             2.58837209302326
+Greene, Ryan A.               2.57450980392157
+Hart, Audrey A.               2.5703125
+Miles, Zoey J.                2.56105263157895
+Parker, Kevin H.              2.509375
+Perry, Diego D.               2.355
+Lewis, Alexander F.           2.33333333333333
+White, Jose E.                2.32068965517242
+Jacobs, Avery R.              2.3020030816641
+Sexton, Ava C.                2.2283185840708
+Diaz, Riley I.                2.06470588235294
+Green, Isabella M.            1.975
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 108 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.15860927152318
+HARDEST INSTRUCTOR: Green, Isabella M.
+SCORE: 1.975
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 109 : 
+Parsons, Mia E.               3.31176470588235
+Fisher, Caleb K.              3.08275862068965
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 109 : 
+EASIEST INSTRUCTOR: Parsons, Mia E.
+SCORE: 3.31176470588235
+HARDEST INSTRUCTOR: Fisher, Caleb K.
+SCORE: 3.08275862068965
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 110 : 
+Cobb, Sophie A.               3.51
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 110 : 
+EASIEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.51
+HARDEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.51
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 111 : 
+Morris, Evan E.               3.95714285714286
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 111 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.95714285714286
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.95714285714286
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 112 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 113 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 114 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 201 : 
+Moore, Isabella M.            3.11604278074867
+Rogers, Emma J.               2.99655172413793
+Reese, Ryan X.                2.89615384615385
+Adams, Sofia A.               2.80547945205479
+Perry, Emily J.               2.74590163934426
+Perry, Diego D.               2.74181818181818
+Bennett, Henry A.             2.6171875
+Mason, Emily V.               2.45471698113208
+Moore, Genesis I.             2.44117647058823
+Hernandez, Owen A.            2.42368421052632
+Reeves, Brayden L.            2.37098976109215
+Green, Isabella M.            2.33242718446602
+Brooks, Michael Y.            2.31509433962264
+Mckay, Isaac A.               2.28846153846154
+Jennings, Gabriel A.          2.2125
+Cherry, Caleb K.              2.20649350649351
+Jones, John K.                2.125
+Miller, Emma J.               2.09677419354839
+Salazar, Mason J.             1.76454545454545
+Turner, Emily A.              1.7
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 201 : 
+EASIEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.11604278074867
+HARDEST INSTRUCTOR: Turner, Emily A.
+SCORE: 1.7
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 202 : 
+Walker, Eric A.               2.85086206896552
+Diaz, Riley I.                2.76260162601626
+Reese, Ryan X.                2.75670567056705
+Adams, Sofia A.               2.7095
+Moore, Isabella M.            2.68020654044751
+Reeves, Brayden L.            2.65371428571429
+Simon, Oliver T.              2.64107142857143
+Bennett, Henry A.             2.57680412371134
+Cox, Ayden C.                 2.50631199278629
+Fisher, Caleb K.              2.46702127659574
+Green, Isabella M.            2.41897810218978
+Vaughn, Giovanni L.           2.37547169811321
+Miller, Emma J.               2.07857142857143
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 202 : 
+EASIEST INSTRUCTOR: Walker, Eric A.
+SCORE: 2.85086206896552
+HARDEST INSTRUCTOR: Miller, Emma J.
+SCORE: 2.07857142857143
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 203 : 
+Bennett, Henry A.             3.2625
+Adams, Sofia A.               3.22935779816514
+Reese, Ryan X.                2.93191489361702
+Whitehead, William A.         2.74
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 203 : 
+EASIEST INSTRUCTOR: Bennett, Henry A.
+SCORE: 3.2625
+HARDEST INSTRUCTOR: Whitehead, William A.
+SCORE: 2.74
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 204 : 
+Williams, Aaron G.            3.54516129032258
+Bennett, Henry A.             3.46926829268293
+Reeves, Brayden L.            3.32352941176471
+Vinson, Dominic A.            2.96183745583039
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 204 : 
+EASIEST INSTRUCTOR: Williams, Aaron G.
+SCORE: 3.54516129032258
+HARDEST INSTRUCTOR: Vinson, Dominic A.
+SCORE: 2.96183745583039
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 205 : 
+Green, Isabella M.            2.6768
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 205 : 
+EASIEST INSTRUCTOR: Green, Isabella M.
+SCORE: 2.6768
+HARDEST INSTRUCTOR: Green, Isabella M.
+SCORE: 2.6768
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 206 : 
+Cobb, Sophie A.               3.36050955414013
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 206 : 
+EASIEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.36050955414013
+HARDEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.36050955414013
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 207 : 
+Cox, Ayden C.                 2.92361111111111
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 207 : 
+EASIEST INSTRUCTOR: Cox, Ayden C.
+SCORE: 2.92361111111111
+HARDEST INSTRUCTOR: Cox, Ayden C.
+SCORE: 2.92361111111111
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 208 : 
+Larsen, Ava S.                3.05842105263158
+Battle, Gianna M.             2.99503816793893
+Rogers, Emma J.               2.43061224489796
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 208 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.05842105263158
+HARDEST INSTRUCTOR: Rogers, Emma J.
+SCORE: 2.43061224489796
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 209 : 
+Logan, Jackson J.             3.32847682119205
+Porter, Hailey F.             3.15677419354839
+Parker, Kevin H.              2.78571428571429
+Abbott, Isaac A.              2.65818181818182
+Diaz, Riley I.                2.64444444444445
+Carroll, David N.             2.61578947368421
+Williams, Juan L.             2.56508325171401
+Hicks, Sophia J.              2.5359375
+White, Amy M.                 2.50536585365854
+Hayes, Aaliyah D.             2.47333333333333
+Mason, Emily V.               2.45806451612903
+Kelly, Isabella A.            2.40943396226415
+Hayden, Ryan L.               2.34405684754522
+Bush, Robert A.               2.33725490196078
+Davis, Xavier M.              2.3221324717286
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 209 : 
+EASIEST INSTRUCTOR: Logan, Jackson J.
+SCORE: 3.32847682119205
+HARDEST INSTRUCTOR: Davis, Xavier M.
+SCORE: 2.3221324717286
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 210 : 
+Williams, Juan L.             3.35042735042735
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 210 : 
+EASIEST INSTRUCTOR: Williams, Juan L.
+SCORE: 3.35042735042735
+HARDEST INSTRUCTOR: Williams, Juan L.
+SCORE: 3.35042735042735
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 211 : 
+Witt, Noah A.                 3.16551724137931
+Hayden, Ryan L.               2.90306748466258
+Davis, Xavier M.              2.86509433962264
+Carroll, David N.             2.74468085106383
+Mason, Emily V.               2.56666666666667
+Whitehead, William A.         2.484
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 211 : 
+EASIEST INSTRUCTOR: Witt, Noah A.
+SCORE: 3.16551724137931
+HARDEST INSTRUCTOR: Whitehead, William A.
+SCORE: 2.484
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 212 : 
+Larsen, Ava S.                3.27049808429119
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 212 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.27049808429119
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.27049808429119
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 213 : 
+Logan, Jackson J.             3.6433734939759
+Donaldson, Matthew C.         3.32166377816291
+Taylor, Liam J.               3.06315789473684
+Herring, Nathan L.            3.0325
+Cox, Jayden L.                2.91581227436823
+Johnson, Samantha N.          2.88
+Sims, Ethan A.                2.87796610169492
+Morales, Victoria E.          2.74390243902439
+Terry, Gabriel S.             2.7390625
+Williams, Juan L.             2.68815789473684
+Peters, Natalie G.            2.64102564102564
+Hayden, Ryan L.               2.62988505747126
+Vaughn, Giovanni L.           2.61118421052632
+Diaz, Riley I.                2.42391304347826
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 213 : 
+EASIEST INSTRUCTOR: Logan, Jackson J.
+SCORE: 3.6433734939759
+HARDEST INSTRUCTOR: Diaz, Riley I.
+SCORE: 2.42391304347826
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 214 : 
+Hines, Mason A.               3.11807228915663
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 214 : 
+EASIEST INSTRUCTOR: Hines, Mason A.
+SCORE: 3.11807228915663
+HARDEST INSTRUCTOR: Hines, Mason A.
+SCORE: 3.11807228915663
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 215 : 
+Hines, Mason A.               3.68636363636364
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 215 : 
+EASIEST INSTRUCTOR: Hines, Mason A.
+SCORE: 3.68636363636364
+HARDEST INSTRUCTOR: Hines, Mason A.
+SCORE: 3.68636363636364
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 216 : 
+Gordon, Noah R.               3.46938775510204
+Browning, Sofia A.            3.16075949367088
+Cox, Jordan V.                3.09059829059829
+Battle, Gianna M.             2.98206627680311
+Lopez, Robert A.              2.94477611940299
+Lamb, Samantha M.             2.9248730964467
+Flynn, David A.               2.90737704918033
+Larsen, Ava S.                2.89352750809061
+Miller, Liam M.               2.87294117647059
+Porter, Hailey F.             2.82978723404255
+Downs, Jesus C.               2.82790697674419
+Snyder, Samantha R.           2.79606060606061
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 216 : 
+EASIEST INSTRUCTOR: Gordon, Noah R.
+SCORE: 3.46938775510204
+HARDEST INSTRUCTOR: Snyder, Samantha R.
+SCORE: 2.79606060606061
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 217 : 
+Dodson, Nicole M.             3.55714285714286
+Battle, Gianna M.             3.12915662650603
+Flynn, David A.               3.03636363636364
+Miller, Liam M.               2.98089887640449
+Downs, Jesus C.               2.95384615384615
+Snyder, Samantha R.           2.69111111111111
+Diaz, Riley I.                2.67241379310345
+Edwards, Maya N.              2.64516129032258
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 217 : 
+EASIEST INSTRUCTOR: Dodson, Nicole M.
+SCORE: 3.55714285714286
+HARDEST INSTRUCTOR: Edwards, Maya N.
+SCORE: 2.64516129032258
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 218 : 
+Cox, Jordan V.                3.55
+Wiley, Scarlett G.            3.54285714285714
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 218 : 
+EASIEST INSTRUCTOR: Cox, Jordan V.
+SCORE: 3.55
+HARDEST INSTRUCTOR: Wiley, Scarlett G.
+SCORE: 3.54285714285714
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 219 : 
+Snyder, Samantha R.           2.97383177570093
+Saunders, Robert G.           2.88163265306122
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 219 : 
+EASIEST INSTRUCTOR: Snyder, Samantha R.
+SCORE: 2.97383177570093
+HARDEST INSTRUCTOR: Saunders, Robert G.
+SCORE: 2.88163265306122
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 220 : 
+Herring, Nathan L.            3.18660640920295
+White, Jose E.                3.14
+Carroll, David N.             2.58260869565217
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 220 : 
+EASIEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.18660640920295
+HARDEST INSTRUCTOR: Carroll, David N.
+SCORE: 2.58260869565217
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 221 : 
+Williams, Victoria M.         3.4015015015015
+Hall, Joshua L.               3.385
+Perry, Camila G.              3.32847222222222
+Barrett, Nicholas J.          3.20190839694657
+Battle, Gianna M.             3.03397129186603
+Diaz, Michelle H.             2.97518248175182
+Larsen, Ava S.                2.96503267973856
+Guerrero, Alexander D.        2.96037735849057
+Donaldson, Dylan H.           2.935
+Snyder, Samantha R.           2.76442307692308
+Bryant, Elijah V.             2.76071428571429
+Sullivan, Jordan H.           2.75303951367781
+Valentine, Julian C.          2.73548387096774
+Diaz, Riley I.                2.67821782178218
+Hancock, Eric A.              2.60196078431373
+Solis, Evan N.                2.49782608695652
+Johnston, Jayden L.           2.3365
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 221 : 
+EASIEST INSTRUCTOR: Williams, Victoria M.
+SCORE: 3.4015015015015
+HARDEST INSTRUCTOR: Johnston, Jayden L.
+SCORE: 2.3365
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 222 : 
+Perry, Camila G.              3.59642857142857
+Barrett, Nicholas J.          3.34444444444444
+Hall, Joshua L.               3.22602739726027
+Schroeder, Samantha O.        3.096
+Holmes, Isaiah K.             3.02689075630252
+Donaldson, Dylan H.           2.97387802071347
+Sullivan, Jordan H.           2.93296703296703
+Larsen, Ava S.                2.93187919463087
+Valentine, Julian C.          2.86353591160221
+Reeves, Jackson N.            2.79189189189189
+Bell, David Q.                2.72666666666667
+Henry, Camila L.              2.70785714285714
+Downs, Jesus C.               2.65909090909091
+Johnston, Jayden L.           2.39225352112676
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 222 : 
+EASIEST INSTRUCTOR: Perry, Camila G.
+SCORE: 3.59642857142857
+HARDEST INSTRUCTOR: Johnston, Jayden L.
+SCORE: 2.39225352112676
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 223 : 
+Witt, Noah A.                 3.6375
+Herring, Nathan L.            3.34166666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 223 : 
+EASIEST INSTRUCTOR: Witt, Noah A.
+SCORE: 3.6375
+HARDEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.34166666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 224 : 
+Larsen, Ava S.                3.40625
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 224 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.40625
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.40625
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 225 : 
+Downs, Jesus C.               3.25
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 225 : 
+EASIEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.25
+HARDEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.25
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 226 : 
+Larsen, Ava S.                3.31626373626374
+Schneider, Daniel D.          3.235
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 226 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.31626373626374
+HARDEST INSTRUCTOR: Schneider, Daniel D.
+SCORE: 3.235
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 227 : 
+Diaz, Riley I.                3.23492822966507
+Cox, Jayden L.                3.16221547799697
+Wilson, Zachary J.            3.11207547169811
+Dean, Daniel A.               3.00625
+Johnson, Destiny G.           3.00222222222222
+Rutledge, Ashley B.           2.84172185430463
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 227 : 
+EASIEST INSTRUCTOR: Diaz, Riley I.
+SCORE: 3.23492822966507
+HARDEST INSTRUCTOR: Rutledge, Ashley B.
+SCORE: 2.84172185430463
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 228 : 
+Wilson, Zachary J.            3.33173652694611
+Johnson, Abigail N.           3.22883720930233
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 228 : 
+EASIEST INSTRUCTOR: Wilson, Zachary J.
+SCORE: 3.33173652694611
+HARDEST INSTRUCTOR: Johnson, Abigail N.
+SCORE: 3.22883720930233
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 229 : 
+Brown, Elizabeth M.           3.0030303030303
+Morris, Evan E.               3.00233545647559
+Parker, Alejandro G.          2.96063829787234
+Carpenter, Grace S.           2.91970509383378
+Baldwin, Ella J.              2.87088452088452
+Thomas, Santiago G.           2.86037735849057
+Diaz, Riley I.                2.83753086419753
+Hall, Alexander W.            2.52280701754386
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 229 : 
+EASIEST INSTRUCTOR: Brown, Elizabeth M.
+SCORE: 3.0030303030303
+HARDEST INSTRUCTOR: Hall, Alexander W.
+SCORE: 2.52280701754386
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 230 : 
+Morris, Evan E.               3.73096446700508
+Parker, Alejandro G.          3.43396226415094
+Carpenter, Grace S.           3.19925373134328
+Baldwin, Ella J.              2.99674185463659
+Edwards, Valeria G.           2.61875
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 230 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.73096446700508
+HARDEST INSTRUCTOR: Edwards, Valeria G.
+SCORE: 2.61875
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 231 : 
+Baldwin, Ella J.              3.55
+Carpenter, Grace S.           3.35
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 231 : 
+EASIEST INSTRUCTOR: Baldwin, Ella J.
+SCORE: 3.55
+HARDEST INSTRUCTOR: Carpenter, Grace S.
+SCORE: 3.35
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 232 : 
+Morris, Evan E.               3.60666666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 232 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.60666666666667
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.60666666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 233 : 
+Morris, Evan E.               3.81285714285714
+Oliver, Sebastian I.          3.17121212121212
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 233 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.81285714285714
+HARDEST INSTRUCTOR: Oliver, Sebastian I.
+SCORE: 3.17121212121212
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 234 : 
+Cox, Jayden L.                3.34608695652174
+Carpenter, Samantha J.        3.31224489795919
+Wilson, Zachary J.            3.19117647058823
+Morales, Victoria E.          2.84677419354839
+Butler, Xavier E.             2.64827586206897
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 234 : 
+EASIEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.34608695652174
+HARDEST INSTRUCTOR: Butler, Xavier E.
+SCORE: 2.64827586206897
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 235 : 
+Vinson, Dominic A.            2.8578947368421
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 235 : 
+EASIEST INSTRUCTOR: Vinson, Dominic A.
+SCORE: 2.8578947368421
+HARDEST INSTRUCTOR: Vinson, Dominic A.
+SCORE: 2.8578947368421
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 236 : 
+Butler, Xavier E.             2.84347826086957
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 236 : 
+EASIEST INSTRUCTOR: Butler, Xavier E.
+SCORE: 2.84347826086957
+HARDEST INSTRUCTOR: Butler, Xavier E.
+SCORE: 2.84347826086957
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 237 : 
+Hill, Melody B.               2.83880597014925
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 237 : 
+EASIEST INSTRUCTOR: Hill, Melody B.
+SCORE: 2.83880597014925
+HARDEST INSTRUCTOR: Hill, Melody B.
+SCORE: 2.83880597014925
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 238 : 
+Fisher, Caleb K.              3.0984126984127
+Olson, Jennifer D.            3.09265033407572
+Johnson, Abigail N.           2.95544554455446
+Perry, Katherine V.           2.90652173913044
+Rogers, Emma J.               2.90552486187845
+Greene, Ryan A.               2.88246753246753
+Williamson, Jasmine B.        2.85714285714286
+Houston, Noah J.              2.55084745762712
+Hernandez, Owen A.            2.465
+Mckinney, Jayden N.           2.06052631578947
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 238 : 
+EASIEST INSTRUCTOR: Fisher, Caleb K.
+SCORE: 3.0984126984127
+HARDEST INSTRUCTOR: Mckinney, Jayden N.
+SCORE: 2.06052631578947
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 239 : 
+Olson, Jennifer D.            3.87272727272727
+Johnson, Abigail N.           3.57567567567567
+Fisher, Caleb K.              3.55882352941176
+Perry, Katherine V.           3.04
+Rogers, Emma J.               2.58666666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 239 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.87272727272727
+HARDEST INSTRUCTOR: Rogers, Emma J.
+SCORE: 2.58666666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 240 : 
+Fletcher, Arianna J.          3.73888888888889
+Perry, Katherine V.           3.455
+Olson, Jennifer D.            3.36734693877551
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 240 : 
+EASIEST INSTRUCTOR: Fletcher, Arianna J.
+SCORE: 3.73888888888889
+HARDEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.36734693877551
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 241 : 
+Donaldson, Matthew C.         3.91034482758621
+Morris, Ariana O.             3.83333333333333
+Larsen, Ava S.                3.79411764705882
+Morris, Evan E.               3.79230769230769
+White, Jose E.                3.74444444444444
+Cummings, Liam A.             3.74044943820225
+Rutledge, Ashley B.           3.71428571428571
+Downs, Jesus C.               3.7
+Jenkins, Christian F.         3.62230215827338
+Snyder, Samantha R.           3.52645502645503
+Carpenter, Samantha J.        3.5064
+Dean, Daniel A.               3.48379888268157
+Craig, Ava J.                 3.44607843137255
+Moore, Isabella M.            3.43547297297298
+Cobb, Sophie A.               3.39411764705882
+Green, Isabella M.            3.38476454293629
+Davis, Giovanni H.            3.33349753694581
+Vinson, Dominic A.            3.12678571428571
+Miller, Emma J.               3.01707317073171
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 241 : 
+EASIEST INSTRUCTOR: Donaldson, Matthew C.
+SCORE: 3.91034482758621
+HARDEST INSTRUCTOR: Miller, Emma J.
+SCORE: 3.01707317073171
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 242 : 
+Green, Isabella M.            2.776
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 242 : 
+EASIEST INSTRUCTOR: Green, Isabella M.
+SCORE: 2.776
+HARDEST INSTRUCTOR: Green, Isabella M.
+SCORE: 2.776
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 243 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 244 : 
+Larsen, Ava S.                3.39555555555556
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 244 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.39555555555556
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.39555555555556
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 245 : 
+Walker, Evelyn K.             3.79090909090909
+Morris, Evan E.               3.59677419354839
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 245 : 
+EASIEST INSTRUCTOR: Walker, Evelyn K.
+SCORE: 3.79090909090909
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 3.59677419354839
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 246 : 
+Montgomery, Landon Y.         2.91489361702128
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 246 : 
+EASIEST INSTRUCTOR: Montgomery, Landon Y.
+SCORE: 2.91489361702128
+HARDEST INSTRUCTOR: Montgomery, Landon Y.
+SCORE: 2.91489361702128
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 247 : 
+Hayden, Ryan L.               4.0
+Olson, Jennifer D.            3.86846846846847
+Perry, Katherine V.           3.44545454545455
+Hill, Melody B.               3.3
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 247 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Hill, Melody B.
+SCORE: 3.3
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 248 : 
+Downs, Jesus C.               3.05
+Martin, Noah K.               2.49230769230769
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 248 : 
+EASIEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.05
+HARDEST INSTRUCTOR: Martin, Noah K.
+SCORE: 2.49230769230769
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 249 : 
+Cobb, Sophie A.               3.45
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 249 : 
+EASIEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.45
+HARDEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.45
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 250 : 
+Larsen, Ava S.                3.44166666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 250 : 
+EASIEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.44166666666667
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.44166666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 251 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 252 : 
+Morris, Evan E.               4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 252 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 253 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 254 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 255 : 
+Hayden, Ryan L.               4.0
+Rutledge, Ashley B.           4.0
+Olson, Jennifer D.            3.88888888888889
+Miller, Liam M.               3.8219387755102
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 255 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Miller, Liam M.
+SCORE: 3.8219387755102
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 256 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 257 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 258 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 259 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 260 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 261 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 301 : 
+Sullivan, Jordan H.           3.64878048780488
+Donaldson, Dylan H.           3.615
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 301 : 
+EASIEST INSTRUCTOR: Sullivan, Jordan H.
+SCORE: 3.64878048780488
+HARDEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.615
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 302 : 
+Valentine, Julian C.          4.0
+Sullivan, Jordan H.           3.78461538461538
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 302 : 
+EASIEST INSTRUCTOR: Valentine, Julian C.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Sullivan, Jordan H.
+SCORE: 3.78461538461538
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 303 : 
+Donaldson, Dylan H.           3.97692307692308
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 303 : 
+EASIEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.97692307692308
+HARDEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.97692307692308
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 304 : 
+Green, Isabella M.            3.84074074074074
+Perry, Diego D.               3.775
+Moore, Isabella M.            3.53461538461538
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 304 : 
+EASIEST INSTRUCTOR: Green, Isabella M.
+SCORE: 3.84074074074074
+HARDEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.53461538461538
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 305 : 
+Vinson, Dominic A.            3.57647058823529
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 305 : 
+EASIEST INSTRUCTOR: Vinson, Dominic A.
+SCORE: 3.57647058823529
+HARDEST INSTRUCTOR: Vinson, Dominic A.
+SCORE: 3.57647058823529
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 306 : 
+Moore, Isabella M.            3.6910447761194
+Reeves, Brayden L.            3.59268292682927
+Fisher, Caleb K.              3.56078431372549
+Reese, Ryan X.                3.44940047961631
+Bennett, Henry A.             3.44260563380282
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 306 : 
+EASIEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.6910447761194
+HARDEST INSTRUCTOR: Bennett, Henry A.
+SCORE: 3.44260563380282
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 307 : 
+Bennett, Henry A.             3.91818181818182
+Reese, Ryan X.                3.78115942028985
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 307 : 
+EASIEST INSTRUCTOR: Bennett, Henry A.
+SCORE: 3.91818181818182
+HARDEST INSTRUCTOR: Reese, Ryan X.
+SCORE: 3.78115942028985
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 308 : 
+Fisher, Caleb K.              3.82978723404255
+Reese, Ryan X.                3.6948717948718
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 308 : 
+EASIEST INSTRUCTOR: Fisher, Caleb K.
+SCORE: 3.82978723404255
+HARDEST INSTRUCTOR: Reese, Ryan X.
+SCORE: 3.6948717948718
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 309 : 
+Bennett, Henry A.             3.7
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 309 : 
+EASIEST INSTRUCTOR: Bennett, Henry A.
+SCORE: 3.7
+HARDEST INSTRUCTOR: Bennett, Henry A.
+SCORE: 3.7
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 310 : 
+O'donnell, Madison G.         3.95
+Bennett, Henry A.             3.68
+Smith, Christian J.           3.58103448275862
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 310 : 
+EASIEST INSTRUCTOR: O'donnell, Madison G.
+SCORE: 3.95
+HARDEST INSTRUCTOR: Smith, Christian J.
+SCORE: 3.58103448275862
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 311 : 
+Fisher, Caleb K.              3.91666666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 311 : 
+EASIEST INSTRUCTOR: Fisher, Caleb K.
+SCORE: 3.91666666666667
+HARDEST INSTRUCTOR: Fisher, Caleb K.
+SCORE: 3.91666666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 312 : 
+Green, Isabella M.            3.72790697674418
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 312 : 
+EASIEST INSTRUCTOR: Green, Isabella M.
+SCORE: 3.72790697674418
+HARDEST INSTRUCTOR: Green, Isabella M.
+SCORE: 3.72790697674418
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 313 : 
+Moore, Isabella M.            3.78720930232558
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 313 : 
+EASIEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.78720930232558
+HARDEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.78720930232558
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 314 : 
+Cobb, Sophie A.               3.92647058823529
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 314 : 
+EASIEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.92647058823529
+HARDEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.92647058823529
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 315 : 
+Schneider, Daniel D.          3.82717391304348
+Edwards, Adrian G.            3.34166666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 315 : 
+EASIEST INSTRUCTOR: Schneider, Daniel D.
+SCORE: 3.82717391304348
+HARDEST INSTRUCTOR: Edwards, Adrian G.
+SCORE: 3.34166666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 316 : 
+Cox, Ayden C.                 3.66094674556213
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 316 : 
+EASIEST INSTRUCTOR: Cox, Ayden C.
+SCORE: 3.66094674556213
+HARDEST INSTRUCTOR: Cox, Ayden C.
+SCORE: 3.66094674556213
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 317 : 
+Reeves, Brayden L.            3.93333333333333
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 317 : 
+EASIEST INSTRUCTOR: Reeves, Brayden L.
+SCORE: 3.93333333333333
+HARDEST INSTRUCTOR: Reeves, Brayden L.
+SCORE: 3.93333333333333
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 318 : 
+Herring, Nathan L.            3.90454545454545
+White, Jose E.                3.75416666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 318 : 
+EASIEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.90454545454545
+HARDEST INSTRUCTOR: White, Jose E.
+SCORE: 3.75416666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 319 : 
+White, Jose E.                3.92514619883041
+Herring, Nathan L.            3.86666666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 319 : 
+EASIEST INSTRUCTOR: White, Jose E.
+SCORE: 3.92514619883041
+HARDEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.86666666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 320 : 
+Herring, Nathan L.            3.75652173913043
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 320 : 
+EASIEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.75652173913043
+HARDEST INSTRUCTOR: Herring, Nathan L.
+SCORE: 3.75652173913043
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 321 : 
+Donaldson, Matthew C.         4.0
+Cox, Jayden L.                3.96333333333333
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 321 : 
+EASIEST INSTRUCTOR: Donaldson, Matthew C.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.96333333333333
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 322 : 
+Hayden, Ryan L.               3.90289855072464
+Davis, Xavier M.              3.72028985507247
+Cox, Jayden L.                3.71460674157303
+Johnson, Destiny G.           3.59722222222222
+Mason, Emily V.               3.53846153846154
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 322 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 3.90289855072464
+HARDEST INSTRUCTOR: Mason, Emily V.
+SCORE: 3.53846153846154
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 323 : 
+Davenport, Jackson L.         3.45555555555556
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 323 : 
+EASIEST INSTRUCTOR: Davenport, Jackson L.
+SCORE: 3.45555555555556
+HARDEST INSTRUCTOR: Davenport, Jackson L.
+SCORE: 3.45555555555556
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 324 : 
+Mcclure, Noah P.              3.76
+Davenport, Jackson L.         3.67640449438202
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 324 : 
+EASIEST INSTRUCTOR: Mcclure, Noah P.
+SCORE: 3.76
+HARDEST INSTRUCTOR: Davenport, Jackson L.
+SCORE: 3.67640449438202
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 325 : 
+Williams, Juan L.             3.3202380952381
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 325 : 
+EASIEST INSTRUCTOR: Williams, Juan L.
+SCORE: 3.3202380952381
+HARDEST INSTRUCTOR: Williams, Juan L.
+SCORE: 3.3202380952381
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 326 : 
+Hayden, Ryan L.               3.88888888888889
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 326 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 3.88888888888889
+HARDEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 3.88888888888889
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 327 : 
+Donaldson, Dylan H.           3.91388888888889
+Sullivan, Jordan H.           3.74863387978142
+Larsen, Ava S.                3.57619047619048
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 327 : 
+EASIEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.91388888888889
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.57619047619048
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 328 : 
+Sullivan, Jordan H.           3.91875
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 328 : 
+EASIEST INSTRUCTOR: Sullivan, Jordan H.
+SCORE: 3.91875
+HARDEST INSTRUCTOR: Sullivan, Jordan H.
+SCORE: 3.91875
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 329 : 
+Donaldson, Dylan H.           3.95
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 329 : 
+EASIEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.95
+HARDEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 3.95
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 330 : 
+Hayden, Ryan L.               4.0
+Herring, Nathan L.            3.97951807228916
+Donaldson, Matthew C.         3.94228723404255
+Cox, Jayden L.                3.76842105263158
+Hines, Mason A.               3.58571428571429
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 330 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Hines, Mason A.
+SCORE: 3.58571428571429
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 331 : 
+Battle, Gianna M.             3.89132653061225
+Snyder, Samantha R.           3.70833333333333
+Downs, Jesus C.               3.41714285714286
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 331 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 3.89132653061225
+HARDEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.41714285714286
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 332 : 
+Donaldson, Matthew C.         3.97619047619048
+Martin, Layla L.              3.9695652173913
+Herring, Nathan L.            3.8875
+Cox, Jayden L.                3.875
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 332 : 
+EASIEST INSTRUCTOR: Donaldson, Matthew C.
+SCORE: 3.97619047619048
+HARDEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.875
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 333 : 
+Battle, Gianna M.             4.0
+Larsen, Ava S.                3.71258741258741
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 333 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 3.71258741258741
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 334 : 
+Battle, Gianna M.             4.0
+Larsen, Ava S.                4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 334 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Larsen, Ava S.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 335 : 
+Battle, Gianna M.             4.0
+Snyder, Samantha R.           3.8875
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 335 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Snyder, Samantha R.
+SCORE: 3.8875
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 336 : 
+Battle, Gianna M.             4.0
+Downs, Jesus C.               3.62537313432836
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 336 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.62537313432836
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 337 : 
+Downs, Jesus C.               3.82666666666667
+Cox, Jordan V.                3.78695652173913
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 337 : 
+EASIEST INSTRUCTOR: Downs, Jesus C.
+SCORE: 3.82666666666667
+HARDEST INSTRUCTOR: Cox, Jordan V.
+SCORE: 3.78695652173913
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 338 : 
+Snyder, Samantha R.           3.89830508474576
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 338 : 
+EASIEST INSTRUCTOR: Snyder, Samantha R.
+SCORE: 3.89830508474576
+HARDEST INSTRUCTOR: Snyder, Samantha R.
+SCORE: 3.89830508474576
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 339 : 
+Cox, Jayden L.                3.9
+Rutledge, Ashley B.           3.76560846560847
+White, Amy M.                 3.62142857142857
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 339 : 
+EASIEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.9
+HARDEST INSTRUCTOR: White, Amy M.
+SCORE: 3.62142857142857
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 340 : 
+Cox, Jayden L.                3.8875
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 340 : 
+EASIEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.8875
+HARDEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.8875
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 341 : 
+Baldwin, Ella J.              3.76764705882353
+Carpenter, Grace S.           3.72
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 341 : 
+EASIEST INSTRUCTOR: Baldwin, Ella J.
+SCORE: 3.76764705882353
+HARDEST INSTRUCTOR: Carpenter, Grace S.
+SCORE: 3.72
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 342 : 
+Baldwin, Ella J.              3.95
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 342 : 
+EASIEST INSTRUCTOR: Baldwin, Ella J.
+SCORE: 3.95
+HARDEST INSTRUCTOR: Baldwin, Ella J.
+SCORE: 3.95
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 343 : 
+Edwards, Maya N.              3.97692307692308
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 343 : 
+EASIEST INSTRUCTOR: Edwards, Maya N.
+SCORE: 3.97692307692308
+HARDEST INSTRUCTOR: Edwards, Maya N.
+SCORE: 3.97692307692308
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 344 : 
+Carpenter, Grace S.           3.675
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 344 : 
+EASIEST INSTRUCTOR: Carpenter, Grace S.
+SCORE: 3.675
+HARDEST INSTRUCTOR: Carpenter, Grace S.
+SCORE: 3.675
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 345 : 
+Morris, Evan E.               4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 345 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 346 : 
+Carpenter, Samantha J.        3.75384615384615
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 346 : 
+EASIEST INSTRUCTOR: Carpenter, Samantha J.
+SCORE: 3.75384615384615
+HARDEST INSTRUCTOR: Carpenter, Samantha J.
+SCORE: 3.75384615384615
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 347 : 
+Wilson, Zachary J.            4.0
+Carpenter, Samantha J.        3.62661870503597
+Morales, Victoria E.          3.58727272727273
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 347 : 
+EASIEST INSTRUCTOR: Wilson, Zachary J.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Morales, Victoria E.
+SCORE: 3.58727272727273
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 348 : 
+Johnson, Abigail N.           3.87666666666667
+Butler, Xavier E.             3.85
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 348 : 
+EASIEST INSTRUCTOR: Johnson, Abigail N.
+SCORE: 3.87666666666667
+HARDEST INSTRUCTOR: Butler, Xavier E.
+SCORE: 3.85
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 349 : 
+Carroll, David N.             3.425
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 349 : 
+EASIEST INSTRUCTOR: Carroll, David N.
+SCORE: 3.425
+HARDEST INSTRUCTOR: Carroll, David N.
+SCORE: 3.425
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 350 : 
+Olson, Jennifer D.            3.82285714285714
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 350 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.82285714285714
+HARDEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.82285714285714
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 351 : 
+Olson, Jennifer D.            3.92380952380952
+Greene, Ryan A.               3.90526315789474
+Rogers, Emma J.               3.79818181818182
+Johnson, Abigail N.           3.64
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 351 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.92380952380952
+HARDEST INSTRUCTOR: Johnson, Abigail N.
+SCORE: 3.64
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 352 : 
+Rogers, Emma J.               3.6
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 352 : 
+EASIEST INSTRUCTOR: Rogers, Emma J.
+SCORE: 3.6
+HARDEST INSTRUCTOR: Rogers, Emma J.
+SCORE: 3.6
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 353 : 
+Olson, Jennifer D.            4.0
+Johnson, Abigail N.           3.88548387096774
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 353 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Johnson, Abigail N.
+SCORE: 3.88548387096774
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 354 : 
+Olson, Jennifer D.            3.98867924528302
+Rogers, Emma J.               3.8875
+Jones, John K.                3.88
+Perry, Katherine V.           3.87647058823529
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 354 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.98867924528302
+HARDEST INSTRUCTOR: Perry, Katherine V.
+SCORE: 3.87647058823529
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 355 : 
+Perry, Katherine V.           4.0
+Olson, Jennifer D.            3.99662921348315
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 355 : 
+EASIEST INSTRUCTOR: Perry, Katherine V.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 3.99662921348315
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 356 : 
+Parsons, Mia E.               3.91590909090909
+Rogers, Emma J.               3.69354838709677
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 356 : 
+EASIEST INSTRUCTOR: Parsons, Mia E.
+SCORE: 3.91590909090909
+HARDEST INSTRUCTOR: Rogers, Emma J.
+SCORE: 3.69354838709677
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 357 : 
+Greene, Ryan A.               3.93809523809524
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 357 : 
+EASIEST INSTRUCTOR: Greene, Ryan A.
+SCORE: 3.93809523809524
+HARDEST INSTRUCTOR: Greene, Ryan A.
+SCORE: 3.93809523809524
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 358 : 
+Green, Isabella M.            4.0
+Fisher, Caleb K.              4.0
+Baldwin, Ella J.              4.0
+Reeves, Brayden L.            3.88666666666667
+Moore, Isabella M.            3.79310344827586
+Bennett, Henry A.             3.79285714285714
+Miller, Liam M.               3.57
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 358 : 
+EASIEST INSTRUCTOR: Green, Isabella M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Miller, Liam M.
+SCORE: 3.57
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 359 : 
+Donaldson, Dylan H.           4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 359 : 
+EASIEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Donaldson, Dylan H.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 360 : 
+Hayden, Ryan L.               4.0
+Morris, Evan E.               4.0
+Stafford, Aaliyah A.          4.0
+Davis, Xavier M.              3.98636363636364
+White, Amy M.                 3.8
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 360 : 
+EASIEST INSTRUCTOR: Hayden, Ryan L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: White, Amy M.
+SCORE: 3.8
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 361 : 
+Hall, Joshua L.               4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 361 : 
+EASIEST INSTRUCTOR: Hall, Joshua L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Hall, Joshua L.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 362 : 
+Rutledge, Ashley B.           3.976
+Cox, Jayden L.                3.88
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 362 : 
+EASIEST INSTRUCTOR: Rutledge, Ashley B.
+SCORE: 3.976
+HARDEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 3.88
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 363 : 
+Martin, Layla L.              3.94285714285714
+Baldwin, Ella J.              3.87105263157895
+Edwards, Maya N.              3.82
+Parker, Alejandro G.          3.76
+Carpenter, Grace S.           3.67254901960784
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 363 : 
+EASIEST INSTRUCTOR: Martin, Layla L.
+SCORE: 3.94285714285714
+HARDEST INSTRUCTOR: Carpenter, Grace S.
+SCORE: 3.67254901960784
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 364 : 
+Baldwin, Ella J.              4.0
+Montgomery, Landon Y.         3.88571428571429
+Simmons, Emma I.              3.70232558139535
+Carpenter, Samantha J.        3.68333333333333
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 364 : 
+EASIEST INSTRUCTOR: Baldwin, Ella J.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Carpenter, Samantha J.
+SCORE: 3.68333333333333
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 365 : 
+Olson, Jennifer D.            4.0
+Fisher, Caleb K.              3.95
+Johnson, Abigail N.           3.91111111111111
+Greene, Ryan A.               3.8875
+Montgomery, Landon Y.         3.8
+Hill, Melody B.               3.63428571428571
+Rogers, Emma J.               3.62142857142857
+Parsons, Mia E.               3.58181818181818
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 365 : 
+EASIEST INSTRUCTOR: Olson, Jennifer D.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Parsons, Mia E.
+SCORE: 3.58181818181818
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 366 : 
+Battle, Gianna M.             4.0
+Martin, Layla L.              3.97272727272727
+Snyder, Samantha R.           3.8984375
+Downs, Jesus C.               3.87674418604651
+Guerrero, Jackson M.          3.8375
+Edwards, Maya N.              3.8
+Miller, Liam M.               3.70714285714286
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 366 : 
+EASIEST INSTRUCTOR: Battle, Gianna M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Miller, Liam M.
+SCORE: 3.70714285714286
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 367 : 
+Donaldson, Matthew C.         4.0
+Schneider, Daniel D.          3.97857142857143
+Miller, Liam M.               3.8125
+Vinson, Dominic A.            3.80322580645161
+Perry, Katherine V.           3.8
+Cox, Ayden C.                 3.70714285714286
+Edwards, Adrian G.            3.47
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 367 : 
+EASIEST INSTRUCTOR: Donaldson, Matthew C.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Edwards, Adrian G.
+SCORE: 3.47
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 368 : 
+Miller, Liam M.               4.0
+Reeves, Brayden L.            4.0
+Salazar, Mason J.             4.0
+Fisher, Caleb K.              4.0
+Olson, Jennifer D.            4.0
+Cox, Jayden L.                3.97
+Cobb, Sophie A.               3.825
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 368 : 
+EASIEST INSTRUCTOR: Miller, Liam M.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Cobb, Sophie A.
+SCORE: 3.825
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 369 : 
+Cox, Jayden L.                4.0
+Donaldson, Matthew C.         4.0
+White, Jose E.                3.985
+Herring, Nathan L.            3.9741935483871
+Witt, Noah A.                 3.94117647058824
+Moore, Isabella M.            3.79166666666667
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 369 : 
+EASIEST INSTRUCTOR: Cox, Jayden L.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Moore, Isabella M.
+SCORE: 3.79166666666667
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 370 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 371 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 372 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 373 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 374 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 375 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 376 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 377 : 
+Morris, Evan E.               4.0
+---------------------------------------------------------------------------------
+FINAL RESULTS FOR COURSE 377 : 
+EASIEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+HARDEST INSTRUCTOR: Morris, Evan E.
+SCORE: 4.0
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 378 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
+LIST OF INSTRUCTOR NAMES AND SCORES 
+SCORES DETERMINED BASED ON GRADES A+ - F, ALL OTHER GRADES DID NOT COUNT TOWARDS SCORE 
+A+, A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0,..... 
+---------------------------------------------------------------------------------
+COURSE 379 : 
+---------------------------------------------------------------------------------
+NO INSTRUCTORS GAVE MARKS A+ - F, NO DATA AVAILABLE 
+---------------------------------------------------------------------------------
